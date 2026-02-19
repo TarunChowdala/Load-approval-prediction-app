@@ -1,6 +1,6 @@
 ipykernel
 numpy
 pandas
-streamlit
+streamlit>=1.54.0
 scikit-learn
 tensorflow
